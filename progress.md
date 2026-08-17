@@ -2,20 +2,20 @@
 
 ## Current status
 
-**Phase:** Planning / Architecture
+**Phase:** MVP frontend implementation
 
-**Overall completion:** 0%
+**Overall completion:** 20%
 
-The project has not yet entered implementation.
+The project now has a runnable frontend demo with seeded campaign, evidence, and verifier data. External chain, storage, database, and AI integrations are still pending.
 
 ---
 
 ## 1. Foundation
 
-- [ ] Repository initialized
+- [x] Repository initialized
 - [ ] Monorepo structure created
-- [ ] Environment configuration
-- [ ] README created
+- [x] Environment configuration
+- [x] README created
 - [ ] License selected
 - [ ] CI configured
 
@@ -66,18 +66,18 @@ The project has not yet entered implementation.
 
 ## 6. Frontend
 
-- [ ] Next.js application
-- [ ] Design system
-- [ ] Wallet connection
-- [ ] Campaign discovery
-- [ ] Campaign details
-- [ ] Donation flow
-- [ ] Donation receipt
-- [ ] Fund-flow visualization
+- [x] Next.js application
+- [x] Design system
+- [x] Wallet connection (demo state)
+- [x] Campaign discovery
+- [x] Campaign details
+- [x] Donation flow (demo state)
+- [x] Donation receipt
+- [x] Fund-flow visualization
 - [ ] NGO dashboard
 - [ ] Evidence upload
-- [ ] Verification dashboard
-- [ ] Transparency score
+- [x] Verification dashboard
+- [x] Transparency score
 
 ## 7. Testing
 
